@@ -1,3 +1,5 @@
+#A* and IDA* algorithms for 8-puzzle and 15-puzzle
+
 requirements: python 3.5
 The program can be run from the ommand line as follows:</br>
 python puzzleSolver.py \<Algorithm> \<N> </br>
